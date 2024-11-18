@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"c:\\Users\\yulu7\\Desktop\\Github\\AtCoder\\PClassic2023f\\b.cpp","tests":[{"id":1730955624832,"input":"5\n98 1\n98 2\n98 3\n1 10\n160 121","output":"NO\nYES\nYES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yulu7\\Desktop\\Github\\AtCoder\\PClassic2023f\\b.cpp","group":"local","local":true}
