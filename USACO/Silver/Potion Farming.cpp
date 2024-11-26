@@ -12,7 +12,11 @@ using std::cout, std::endl, std::cin, std::vector, std::array, std::string, std:
 
 vector<vector<int>> tree;
 vector<bool> visited;
-
+// remove visited, we don`t need to keep that in track
+// instead, pass a parameter of just node (the node that we want to travel from) this can be 1 at first
+// run dsf again
+//find difference to find some value length
+// 
 void dsf(int node, int parent = -1){
     visited[node] = true;
     cout << "Visiting node: " << node << endl;
