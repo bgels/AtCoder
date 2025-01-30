@@ -1,0 +1,1 @@
+{"name":"Local: usaco","url":"c:\\Users\\yulu7\\Desktop\\AtCoder\\usaco.cpp","tests":[{"id":1736062402393,"input":"8\n0 1 2\n1 1\n1 2\n0 2 3\n1 1\n1 2\n0 2 1\n1 2","output":"2\n0\n2\n3\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yulu7\\Desktop\\AtCoder\\usaco.cpp","group":"local","local":true}
